@@ -1,0 +1,487 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text_en": "The government should increase tax rates on high earners to fund public services.",
+      "text_nl": "De overheid moet de belastingen voor hoge inkomens verhogen om publieke diensten te financieren.",
+      "explanation_en": "Increasing taxes on high earners helps fund essential services without burdening low-income households.",
+      "explanation_nl": "Het verhogen van belastingen voor hoge inkomens helpt essentiële diensten te financieren zonder lage inkomens te belasten.",
+      "standpunt": {
+        "against": ["PVV","FvD","JA21","SGP","VVD","BBB"],
+        "neutral": ["CDA","Volt"],
+        "pro": ["GL-PvdA","D66","PvdD","SP","ChristenUnie","DENK","50PLUS"]
+      }
+    },
+    {
+      "id": 2,
+      "text_en": "The Netherlands should strengthen its asylum procedures to reduce the number of arrivals.",
+      "text_nl": "Nederland moet de asielprocedures verscherpen om het aantal aankomsten te verminderen.",
+      "explanation_en": "Strengthening asylum procedures is argued to help manage migration flows while balancing humanitarian concerns.",
+      "explanation_nl": "Het verscherpen van asielprocedures kan helpen de migratiestromen te beheersen en humanitaire aandacht te behouden.",
+      "standpunt": {
+        "against": ["D66","GL-PvdA","PvdD"],
+        "neutral": ["CDA","Volt","SP","DENK","50PLUS","BBB"],
+        "pro": ["PVV","FvD","JA21","SGP","VVD","ChristenUnie"]
+      }
+    },
+    {
+      "id": 3,
+      "text_en": "The Netherlands should deepen cooperation with the EU, even if it limits national autonomy.",
+      "text_nl": "Nederland moet de samenwerking met de EU verdiepen, ook als dat de nationale autonomie beperkt.",
+      "explanation_en": "Deeper EU cooperation can bring economic, social, and security benefits but may limit some national autonomy.",
+      "explanation_nl": "Diepere samenwerking met de EU kan economische, sociale en veiligheidsvoordelen opleveren, maar nationale autonomie beperken.",
+      "standpunt": {
+        "against": ["FvD","PVV"],
+        "neutral": ["SGP","BBB","50PLUS"],
+        "pro": ["GL-PvdA","D66","VVD","DENK","ChristenUnie","PvdD","SP","Volt","CDA","JA21"]
+      }
+    },
+    {
+      "id": 4,
+      "text_en": "The government should prioritize rapid reduction of greenhouse gas emissions.",
+      "text_nl": "De overheid moet prioriteit geven aan een snelle vermindering van broeikasgasemissies.",
+      "explanation_en": "Rapid emissions reduction is critical to limit climate change and environmental damage.",
+      "explanation_nl": "Snelle vermindering van emissies is essentieel om klimaatverandering en milieuschade te beperken.",
+      "standpunt": {
+        "against": ["PVV","FvD","JA21","BBB"],
+        "neutral": ["CDA","VVD","50PLUS","SGP"],
+        "pro": ["GL-PvdA","D66","PvdD","SP","ChristenUnie","DENK","Volt"]
+      }
+    },
+    {
+      "id": 5,
+      "text_en": "Military spending should be increased to improve national defence.",
+      "text_nl": "De militaire uitgaven moeten worden verhoogd om de nationale defensie te verbeteren.",
+      "explanation_en": "Higher defense spending can strengthen security, but may divert funds from social programs.",
+      "explanation_nl": "Hogere defensie-uitgaven kunnen de veiligheid versterken, maar kunnen middelen wegnemen van sociale programma's.",
+      "standpunt": {
+        "against": ["GL-PvdA","PvdD","SP"],
+        "neutral": ["CDA","D66","Volt","50PLUS"],
+        "pro": ["VVD","PVV","FvD","JA21","BBB","SGP","ChristenUnie","DENK"]
+      }
+    },
+    {
+      "id": 6,
+      "text_en": "Public healthcare services should have more funding, even if it raises taxes.",
+      "text_nl": "Publieke gezondheidszorg moet meer financiering krijgen, ook als dat belastingen verhoogt.",
+      "explanation_en": "Increased healthcare funding ensures better access and quality of care for all citizens.",
+      "explanation_nl": "Meer financiering van de gezondheidszorg zorgt voor betere toegang en kwaliteit voor alle burgers.",
+      "standpunt": {
+        "against": ["JA21","FvD","PVV"],
+        "neutral": ["VVD","CDA","BBB","50PLUS"],
+        "pro": ["D66","GL-PvdA","DENK","ChristenUnie","PvdD","SP","Volt"]
+      }
+    },
+    {
+      "id": 7,
+      "text_en": "The legal minimum wage should be increased above the current level.",
+      "text_nl": "Het wettelijk minimumloon moet boven het huidige niveau worden verhoogd.",
+      "explanation_en": "Raising the minimum wage can reduce poverty and increase living standards.",
+      "explanation_nl": "Het verhogen van het minimumloon kan armoede verminderen en de levensstandaard verhogen.",
+      "standpunt": {
+        "against": ["JA21","FvD","PVV","VVD"],
+        "neutral": ["CDA","50PLUS","BBB","SGP"],
+        "pro": ["D66","GL-PvdA","DENK","PvdD","SP","ChristenUnie","Volt"]
+      }
+    },
+    {
+      "id": 8,
+      "text_en": "The state should subsidize housing to make it more affordable.",
+      "text_nl": "De overheid moet woningen subsidiëren om ze betaalbaarder te maken.",
+      "explanation_en": "Housing subsidies help low- and middle-income citizens afford decent housing.",
+      "explanation_nl": "Woningensubsidies helpen lage- en middeninkomens om fatsoenlijke huisvesting te betalen.",
+      "standpunt": {
+        "against": ["PVV","FvD","JA21"],
+        "neutral": ["CDA","VVD","BBB","SGP","50PLUS"],
+        "pro": ["D66","GL-PvdA","DENK","PvdD","SP","ChristenUnie","Volt"]
+      }
+    },
+    {
+      "id": 9,
+      "text_en": "Private companies should have fewer regulations on hiring and firing.",
+      "text_nl": "Privébedrijven moeten minder regels hebben voor aanwerving en ontslag.",
+      "explanation_en": "Reduced regulation can improve business flexibility but may harm employee rights.",
+      "explanation_nl": "Minder regelgeving kan de flexibiliteit van bedrijven vergroten, maar kan werknemersrechten schaden.",
+      "standpunt": {
+        "against": ["GL-PvdA","PvdD","SP"],
+        "neutral": ["CDA","D66","Volt","50PLUS"],
+        "pro": ["VVD","PVV","FvD","JA21","BBB","SGP","ChristenUnie","DENK"]
+      }
+    },
+    {
+      "id": 10,
+      "text_en": "Agriculture should be more tightly regulated to protect the environment.",
+      "text_nl": "De landbouw moet strenger worden gereguleerd om het milieu te beschermen.",
+      "explanation_en": "Stricter agricultural regulation protects water, soil, and biodiversity.",
+      "explanation_nl": "Strengere regelgeving voor de landbouw beschermt water, bodem en biodiversiteit.",
+      "standpunt": {
+        "against": ["JA21","PVV","VVD"],
+        "neutral": ["CDA","BBB","50PLUS","SGP"],
+        "pro": ["D66","GL-PvdA","DENK","PvdD","SP","ChristenUnie","Volt","FvD"]
+      }
+    },
+    {
+      "id": 11,
+      "text_en": "The Netherlands should reduce corporate tax rates to stimulate economic growth.",
+      "text_nl": "Nederland moet de vennootschapsbelasting verlagen om de economische groei te stimuleren.",
+      "explanation_en": "Lower corporate taxes are intended to attract investment and boost economic activity.",
+      "explanation_nl": "Lagere vennootschapsbelasting is bedoeld om investeringen aan te trekken en economische activiteit te stimuleren.",
+      "standpunt": {
+        "against": ["GL-PvdA","SP","PvdD"],
+        "neutral": ["CDA","Volt","ChristenUnie","D66","50PLUS"],
+        "pro": ["VVD","PVV","FvD","JA21","BBB","SGP","DENK"]
+      }
+    },
+    {
+      "id": 12,
+      "text_en": "Citizens should have stronger data privacy protections, even at the cost of some security tools.",
+      "text_nl": "Burgers moeten sterkere bescherming van hun gegevensprivacy hebben, zelfs ten koste van sommige veiligheidsmaatregelen.",
+      "explanation_en": "Prioritizing privacy ensures citizens' rights are protected, balancing safety with freedom.",
+      "explanation_nl": "Het prioriteren van privacy beschermt de rechten van burgers, in balans met veiligheid.",
+      "standpunt": {
+        "against": ["PVV","FvD","JA21","SGP"],
+        "neutral": ["CDA","VVD","BBB","50PLUS"],
+        "pro": ["D66","GL-PvdA","DENK","PvdD","SP","ChristenUnie","Volt"]
+      }
+    },
+    {
+      "id": 13,
+      "text_en": "Border controls should be stricter to limit illegal immigration.",
+      "text_nl": "Grenscontroles moeten strenger zijn om illegale immigratie te beperken.",
+      "explanation_en": "Stricter border control is argued to enhance national security and manage migration flows.",
+      "explanation_nl": "Strengere grenscontrole kan de nationale veiligheid verbeteren en migratiestromen beheersen.",
+      "standpunt": {
+        "against": ["GL-PvdA","D66","PvdD","SP"],
+        "neutral": ["CDA","ChristenUnie","Volt","50PLUS","BBB"],
+        "pro": ["PVV","FvD","JA21","SGP","VVD","DENK"]
+      }
+    },
+    {
+      "id": 14,
+      "text_en": "Investment in renewable energy should be prioritized over fossil fuel production.",
+      "text_nl": "Investeringen in hernieuwbare energie moeten prioriteit krijgen boven fossiele brandstoffen.",
+      "explanation_en": "Prioritizing renewables accelerates the transition to sustainable energy and reduces emissions.",
+      "explanation_nl": "Prioriteit geven aan hernieuwbare energie versnelt de overgang naar duurzame energie en vermindert emissies.",
+      "standpunt": {
+        "against": ["PVV","JA21","FvD"],
+        "neutral": ["CDA","VVD","BBB","SGP","50PLUS"],
+        "pro": ["D66","GL-PvdA","DENK","PvdD","SP","ChristenUnie","Volt"]
+      }
+    },
+    {
+      "id": 15,
+      "text_en": "Public education funding should be increased for primary and secondary schools.",
+      "text_nl": "De financiering van openbaar onderwijs moet worden verhoogd voor basis- en middelbare scholen.",
+      "explanation_en": "Higher education funding improves quality and access for all students.",
+      "explanation_nl": "Meer financiering van onderwijs verbetert kwaliteit en toegankelijkheid voor alle leerlingen.",
+      "standpunt": {
+        "against": ["JA21","FvD","PVV"],
+        "neutral": ["CDA","VVD","BBB","50PLUS"],
+        "pro": ["D66","GL-PvdA","DENK","PvdD","SP","ChristenUnie","Volt"]
+      }
+    },
+    {
+      "id": 16,
+      "text_en": "Religious symbols should be restricted in government buildings.",
+      "text_nl": "Religieuze symbolen moeten beperkt worden in overheidsgebouwen.",
+      "explanation_en": "Restricting symbols aims to maintain neutrality of state institutions.",
+      "explanation_nl": "Het beperken van symbolen moet de neutraliteit van overheidsinstellingen waarborgen.",
+      "standpunt": {
+        "against": ["PVV","JA21","VVD"],
+        "neutral": ["D66","GL-PvdA","DENK","PvdD","SP","Volt","CDA"],
+        "pro": ["ChristenUnie","SGP","BBB","50PLUS"]
+      }
+    },
+    {
+      "id": 17,
+      "text_en": "The Netherlands should invest more in public transport infrastructure.",
+      "text_nl": "Nederland moet meer investeren in infrastructuur voor openbaar vervoer.",
+      "explanation_en": "Investments in public transport improve mobility and reduce environmental impact.",
+      "explanation_nl": "Investeringen in openbaar vervoer verbeteren mobiliteit en verminderen milieu-impact.",
+      "standpunt": {
+        "against": ["JA21","PVV","FvD"],
+        "neutral": ["CDA","VVD","BBB","50PLUS","SGP"],
+        "pro": ["D66","GL-PvdA","DENK","PvdD","SP","ChristenUnie","Volt"]
+      }
+    },
+    {
+      "id": 18,
+      "text_en": "Small and medium businesses should receive financial incentives from the government.",
+      "text_nl": "Kleine en middelgrote bedrijven moeten financiële prikkels van de overheid krijgen.",
+      "explanation_en": "Incentives help SMEs grow and create jobs.",
+      "explanation_nl": "Prikkels helpen MKB-bedrijven te groeien en banen te creëren.",
+      "standpunt": {
+        "against": ["GL-PvdA","PvdD","SP"],
+        "neutral": ["CDA","D66","Volt","50PLUS","BBB"],
+        "pro": ["VVD","PVV","FvD","JA21","SGP","ChristenUnie","DENK"]
+      }
+    },
+    {
+      "id": 19,
+      "text_en": "The government should provide a guaranteed basic income to all citizens.",
+      "text_nl": "De overheid moet een gegarandeerd basisinkomen aan alle burgers geven.",
+      "explanation_en": "A guaranteed income ensures financial security for all citizens.",
+      "explanation_nl": "Een gegarandeerd basisinkomen zorgt voor financiële zekerheid voor alle burgers.",
+      "standpunt": {
+        "against": ["JA21","FvD","PVV","SGP"],
+        "neutral": ["CDA","VVD","BBB","50PLUS"],
+        "pro": ["D66","GL-PvdA","DENK","PvdD","SP","ChristenUnie","Volt"]
+      }
+    },
+    {
+      "id": 20,
+      "text_en": "Taxes for middle‑income households should be decreased.",
+      "text_nl": "Belastingen voor huishoudens met een middeninkomen moeten worden verlaagd.",
+      "explanation_en": "Lower taxes for middle-income households increase disposable income and support consumption.",
+      "explanation_nl": "Lagere belastingen voor middeninkomens verhogen het besteedbaar inkomen en stimuleren consumptie.",
+      "standpunt": {
+        "against": ["GL-PvdA","SP","PvdD"],
+        "neutral": ["CDA","D66","Volt","50PLUS"],
+        "pro": ["VVD","PVV","FvD","JA21","SGP","BBB","ChristenUnie","DENK"]
+      }
+    },
+    {
+      "id": 21,
+      "text_en": "Healthcare should be primarily publicly organized, not private.",
+      "text_nl": "De gezondheidszorg moet voornamelijk publiek georganiseerd zijn, niet privaat.",
+      "explanation_en": "Public organization ensures equal access and quality standards for all citizens.",
+      "explanation_nl": "Publieke organisatie zorgt voor gelijke toegang en kwaliteitsnormen voor alle burgers.",
+      "standpunt": {
+        "against": ["JA21","FvD","PVV","VVD"],
+        "neutral": ["CDA","Volt","BBB","50PLUS"],
+        "pro": ["D66","GL-PvdA","DENK","PvdD","SP","ChristenUnie"]
+      }
+    },
+    {
+      "id": 22,
+      "text_en": "The Netherlands should withdraw from certain EU economic agreements if they conflict with national priorities.",
+      "text_nl": "Nederland moet zich terugtrekken uit bepaalde EU-economische afspraken als ze conflicteren met nationale prioriteiten.",
+      "explanation_en": "Withdrawal may protect national interests but could affect international relations.",
+      "explanation_nl": "Terugtrekking kan nationale belangen beschermen, maar internationale betrekkingen beïnvloeden.",
+      "standpunt": {
+        "against": ["GL-PvdA","D66","PvdD","SP"],
+        "neutral": ["CDA","Volt","ChristenUnie","50PLUS","BBB"],
+        "pro": ["PVV","FvD","JA21","SGP","VVD","DENK"]
+      }
+    },
+    {
+      "id": 23,
+      "text_en": "Job creation should be prioritized over environmental regulation.",
+      "text_nl": "Banencreatie moet voorrang krijgen boven milieuregulering.",
+      "explanation_en": "Prioritizing jobs may boost the economy but can increase environmental risks.",
+      "explanation_nl": "Banencreatie stimuleren kan de economie verbeteren maar milieur risico's verhogen.",
+      "standpunt": {
+        "against": ["GL-PvdA","D66","PvdD","SP"],
+        "neutral": ["CDA","Volt","ChristenUnie","50PLUS","BBB"],
+        "pro": ["PVV","FvD","JA21","SGP","VVD","DENK"]
+      }
+    },
+    {
+      "id": 24,
+      "text_en": "Police and security services should have broader surveillance powers to prevent crime.",
+      "text_nl": "Politie en veiligheidsdiensten moeten bredere surveillancemogelijkheden hebben om misdaad te voorkomen.",
+      "explanation_en": "Increased powers aim to prevent crime, but raise privacy concerns.",
+      "explanation_nl": "Meer bevoegdheden helpen misdaad te voorkomen, maar roepen privacyvragen op.",
+      "standpunt": {
+        "against": ["GL-PvdA","D66","PvdD","SP"],
+        "neutral": ["CDA","Volt","ChristenUnie","50PLUS","BBB"],
+        "pro": ["PVV","FvD","JA21","SGP","VVD","DENK"]
+      }
+    },
+    {
+      "id": 25,
+      "text_en": "The state should ban factory farming to protect animal welfare.",
+      "text_nl": "De staat moet intensieve veehouderij verbieden om dierenwelzijn te beschermen.",
+      "explanation_en": "Banning factory farms improves animal welfare but may affect food supply.",
+      "explanation_nl": "Het verbieden van intensieve veehouderij verbetert dierenwelzijn maar kan de voedselvoorziening beïnvloeden.",
+      "standpunt": {
+        "against": ["JA21","PVV","VVD","SGP","BBB"],
+        "neutral": ["CDA","Volt","DENK"],
+        "pro": ["D66","GL-PvdA","PvdD","SP","ChristenUnie"]
+      }
+    },
+    {
+      "id": 26,
+      "text_en": "Immigration should be primarily merit‑based rather than family‑based.",
+      "text_nl": "Immigratie moet voornamelijk op basis van verdienste plaatsvinden, niet op basis van familie.",
+      "explanation_en": "Merit-based immigration prioritizes skills over family ties for economic integration.",
+      "explanation_nl": "Op verdienste gebaseerde immigratie geeft prioriteit aan vaardigheden boven familiebanden voor economische integratie.",
+      "standpunt": {
+        "against": ["GL-PvdA","PvdD","SP"],
+        "neutral": ["CDA","Volt","ChristenUnie","50PLUS","DENK"],
+        "pro": ["PVV","FvD","JA21","SGP","VVD","BBB","D66"]
+      }
+    },
+    {
+      "id": 27,
+      "text_en": "Public transportation fares should be heavily subsidized.",
+      "text_nl": "De tarieven voor openbaar vervoer moeten sterk worden gesubsidieerd.",
+      "explanation_en": "Subsidies increase affordability and encourage public transport use.",
+      "explanation_nl": "Subsidies verhogen betaalbaarheid en stimuleren gebruik van openbaar vervoer.",
+      "standpunt": {
+        "against": ["JA21","PVV","FvD"],
+        "neutral": ["CDA","VVD","BBB","50PLUS","SGP"],
+        "pro": ["D66","GL-PvdA","DENK","PvdD","SP","ChristenUnie","Volt"]
+      }
+    },
+    {
+      "id": 28,
+      "text_en": "The government should negotiate stricter EU labour standards.",
+      "text_nl": "De overheid moet strengere EU-arbeidsnormen onderhandelen.",
+      "explanation_en": "Stricter standards protect workers, but may limit business flexibility.",
+      "explanation_nl": "Strengere normen beschermen werknemers, maar kunnen bedrijfsflexibiliteit beperken.",
+      "standpunt": {
+        "against": ["JA21","PVV","FvD"],
+        "neutral": ["CDA","VVD","BBB","50PLUS","SGP"],
+        "pro": ["D66","GL-PvdA","DENK","PvdD","SP","ChristenUnie","Volt"]
+      }
+    },
+    {
+      "id": 29,
+      "text_en": "Public funding should support protests and demonstrations.",
+      "text_nl": "Publieke financiering moet protesten en demonstraties ondersteunen.",
+      "explanation_en": "Funding ensures freedom of assembly and democratic expression.",
+      "explanation_nl": "Financiering waarborgt vrijheid van vergadering en democratische expressie.",
+      "standpunt": {
+        "against": ["PVV","FvD","JA21","SGP"],
+        "neutral": ["CDA","VVD","BBB","50PLUS"],
+        "pro": ["D66","GL-PvdA","DENK","PvdD","SP","ChristenUnie","Volt"]
+      }
+    },
+    {
+      "id": 30,
+      "text_en": "The Netherlands should mandate percentage targets for renewable energy.",
+      "text_nl": "Nederland moet percentage-doelstellingen voor hernieuwbare energie verplicht stellen.",
+      "explanation_en": "Mandates accelerate adoption of renewables and reduce greenhouse gas emissions.",
+      "explanation_nl": "Verplichtingen versnellen de adoptie van hernieuwbare energie en verminderen broeikasgasemissies.",
+      "standpunt": {
+        "against": ["JA21","PVV","FvD"],
+        "neutral": ["CDA","VVD","BBB","50PLUS","SGP"],
+        "pro": ["D66","GL-PvdA","DENK","PvdD","SP","ChristenUnie","Volt"]
+      }
+    }
+  ],
+
+  "parties": {
+  "D66": {
+    "1":4,"2":2,"3":5,"4":5,"5":3,
+    "6":4,"7":4,"8":4,"9":3,"10":4,
+    "11":3,"12":4,"13":3,"14":5,"15":4,
+    "16":3,"17":4,"18":3,"19":2,"20":3,
+    "21":4,"22":2,"23":3,"24":3,"25":3,
+    "26":3,"27":4,"28":4,"29":3,"30":5
+  },
+  "PVV": {
+    "1":2,"2":5,"3":1,"4":1,"5":3,
+    "6":3,"7":3,"8":3,"9":4,"10":1,
+    "11":3,"12":2,"13":5,"14":1,"15":3,
+    "16":4,"17":3,"18":4,"19":1,"20":4,
+    "21":3,"22":2,"23":5,"24":4,"25":1,
+    "26":5,"27":2,"28":2,"29":2,"30":1
+  },
+  "VVD": {
+    "1":3,"2":4,"3":4,"4":3,"5":4,
+    "6":3,"7":3,"8":4,"9":4,"10":2,
+    "11":4,"12":3,"13":4,"14":3,"15":3,
+    "16":3,"17":4,"18":4,"19":2,"20":4,
+    "21":3,"22":3,"23":4,"24":3,"25":2,
+    "26":4,"27":3,"28":3,"29":3,"30":3
+  },
+  "GL-PvdA": {
+    "1":5,"2":3,"3":5,"4":5,"5":2,
+    "6":5,"7":4,"8":5,"9":2,"10":5,
+    "11":2,"12":5,"13":2,"14":5,"15":5,
+    "16":3,"17":5,"18":2,"19":3,"20":2,
+    "21":5,"22":2,"23":2,"24":3,"25":5,
+    "26":3,"27":5,"28":4,"29":4,"30":5
+  },
+  "CDA": {
+    "1":3,"2":4,"3":3,"4":3,"5":4,
+    "6":4,"7":3,"8":4,"9":3,"10":3,
+    "11":3,"12":3,"13":4,"14":3,"15":4,
+    "16":4,"17":4,"18":3,"19":2,"20":3,
+    "21":4,"22":3,"23":3,"24":3,"25":3,
+    "26":3,"27":3,"28":3,"29":3,"30":3
+  },
+  "JA21": {
+    "1":2,"2":5,"3":2,"4":2,"5":4,
+    "6":3,"7":3,"8":4,"9":4,"10":2,
+    "11":4,"12":2,"13":5,"14":1,"15":3,
+    "16":3,"17":3,"18":4,"19":1,"20":4,
+    "21":3,"22":3,"23":4,"24":3,"25":2,
+    "26":5,"27":2,"28":2,"29":2,"30":1
+  },
+  "FvD": {
+    "1":2,"2":5,"3":2,"4":2,"5":4,
+    "6":3,"7":3,"8":4,"9":4,"10":2,
+    "11":4,"12":2,"13":5,"14":1,"15":3,
+    "16":4,"17":3,"18":4,"19":1,"20":4,
+    "21":3,"22":3,"23":4,"24":4,"25":2,
+    "26":5,"27":2,"28":2,"29":2,"30":1
+  },
+  "BBB": {
+    "1":3,"2":4,"3":3,"4":2,"5":3,
+    "6":3,"7":3,"8":4,"9":3,"10":2,
+    "11":3,"12":3,"13":4,"14":2,"15":3,
+    "16":3,"17":3,"18":3,"19":2,"20":3,
+    "21":3,"22":3,"23":3,"24":3,"25":2,
+    "26":4,"27":3,"28":3,"29":3,"30":2
+  },
+  "DENK": {
+    "1":4,"2":2,"3":5,"4":4,"5":2,
+    "6":4,"7":3,"8":4,"9":2,"10":3,
+    "11":2,"12":4,"13":3,"14":4,"15":4,
+    "16":3,"17":4,"18":2,"19":3,"20":3,
+    "21":4,"22":2,"23":3,"24":3,"25":3,
+    "26":3,"27":4,"28":4,"29":4,"30":4
+  },
+  "SGP": {
+    "1":2,"2":5,"3":2,"4":2,"5":3,
+    "6":3,"7":3,"8":3,"9":3,"10":2,
+    "11":3,"12":2,"13":5,"14":2,"15":4,
+    "16":5,"17":3,"18":3,"19":1,"20":3,
+    "21":3,"22":3,"23":4,"24":4,"25":1,
+    "26":4,"27":2,"28":2,"29":2,"30":1
+  },
+  "ChristenUnie": {
+    "1":4,"2":4,"3":3,"4":3,"5":3,
+    "6":4,"7":3,"8":4,"9":2,"10":3,
+    "11":2,"12":4,"13":3,"14":3,"15":4,
+    "16":5,"17":4,"18":2,"19":2,"20":3,
+    "21":4,"22":3,"23":3,"24":3,"25":3,
+    "26":3,"27":4,"28":3,"29":4,"30":3
+  },
+  "PvdD": {
+    "1":5,"2":2,"3":4,"4":5,"5":2,
+    "6":4,"7":4,"8":4,"9":2,"10":5,
+    "11":1,"12":5,"13":3,"14":5,"15":4,
+    "16":3,"17":4,"18":2,"19":3,"20":2,
+    "21":4,"22":2,"23":2,"24":3,"25":5,
+    "26":3,"27":4,"28":4,"29":4,"30":5
+  },
+  "SP": {
+    "1":5,"2":3,"3":3,"4":4,"5":2,
+    "6":5,"7":4,"8":4,"9":2,"10":4,
+    "11":2,"12":5,"13":3,"14":4,"15":4,
+    "16":3,"17":4,"18":2,"19":3,"20":2,
+    "21":5,"22":2,"23":2,"24":3,"25":4,
+    "26":3,"27":4,"28":3,"29":4,"30":4
+  },
+  "Volt": {
+    "1":4,"2":2,"3":5,"4":5,"5":3,
+    "6":3,"7":4,"8":4,"9":3,"10":4,
+    "11":3,"12":5,"13":3,"14":5,"15":4,
+    "16":3,"17":4,"18":3,"19":2,"20":3,
+    "21":3,"22":2,"23":3,"24":3,"25":4,
+    "26":3,"27":4,"28":5,"29":4,"30":5
+  },
+  "50PLUS": {
+    "1":3,"2":3,"3":3,"4":3,"5":3,
+    "6":4,"7":3,"8":3,"9":3,"10":3,
+    "11":3,"12":3,"13":3,"14":3,"15":3,
+    "16":3,"17":3,"18":3,"19":3,"20":3,
+    "21":3,"22":3,"23":3,"24":3,"25":3,
+    "26":3,"27":3,"28":3,"29":3,"30":3
+  }
+}
+}
