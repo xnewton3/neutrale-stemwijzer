@@ -464,7 +464,7 @@ input:checked + .slider { background:#373737; border-color:#56a879; }
         <div>© <a href="https://github.xnewton.eu">xnewton</a> 2026</div>
         <div>made with: <a href="https://bulma.io/">Bulma CSS</a></div>
         <hr class="spacer">
-        <p>Issue with the site? <a href="mailto:xnewton.dev@gmx.it">Send me an email</a></p>
+        <p>Issue with the site? <a href="mailto:dev@mail.xnewton.eu">Send me an email</a></p>
     </div>
 </div>
 
